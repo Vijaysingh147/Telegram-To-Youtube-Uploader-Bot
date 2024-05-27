@@ -10,9 +10,9 @@ class Config:
 
     API_HASH = "a2e157e87728053027cbb156e41a832a"
 
-    CLIENT_ID = "691213111087-1knqg638l31podebdjg3se45jnnepso9.apps.googleusercontent.com"
+    CLIENT_ID = ""
 
-    CLIENT_SECRET = "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"
+    CLIENT_SECRET = ""
 
     AUTH_USERS = [5409975736]
 
