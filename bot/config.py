@@ -2,19 +2,19 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "6620634297:AAEeEhTE7YmCo_9ZLjxYZOM2vkS8no7Kx7k"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "youtubeuploadermy1bot"
 
-    API_ID = ""
+    API_ID = "23004101"
 
-    API_HASH = ""
+    API_HASH = "a2e157e87728053027cbb156e41a832a"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "691213111087-1knqg638l31podebdjg3se45jnnepso9.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [5409975736]
 
     VIDEO_DESCRIPTION = ""
 
